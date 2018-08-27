@@ -1,0 +1,14 @@
+/* Styles particuliers */
+h1{
+    text-align: center;
+    margin-top: 10px !important;
+    font-size: 30px !important;
+}
+.search_bar{
+    margin-top: 30px !important;
+    margin-bottom: 10px !important;
+}
+.flag_medium{
+    width: 100px;
+    height: 70px;
+}
